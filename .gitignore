@@ -21,3 +21,8 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+/AGENTS.md
+/CLAUDE.md
+/.gitattributes
+/.figma/make/*
+!/.figma/make/site.json
