@@ -1,0 +1,10 @@
+{
+  "description": "A compact desktop widget for to-do tasks, goals, and a focus timer on Windows and Linux.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
